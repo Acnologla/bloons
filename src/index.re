@@ -23,7 +23,7 @@ let monkeys = [
         path: "024",
         mapDificulty: [Normal],
         dificulty: [Medium, Hard],
-        description: "????????."     
+        description: "Lança um bumerangue que segue um caminho curvo. Atinge uma camada de 3 bloons."     
     },
     {
         name: "Usina de Espinhos",
@@ -37,7 +37,7 @@ let monkeys = [
         path: "402",
         mapDificulty: [Normal, Intermediary],
         dificulty: [Medium, Hard],
-        description: "????????."     
+        description: "Bom contra todos os bloons sem blindagem."     
     },
     {
         name: "Bombardeiro",
@@ -79,7 +79,7 @@ let monkeys = [
         path: "302",
         mapDificulty: [Normal, Intermediary, Advanced, Extreme],
         dificulty: [Easy, Medium, Hard],
-        description: "????????."     
+        description: "Lança raios mágicos que estoura 2 bloons, bom para todos os mapas."     
     },
     {
         name: "Druida",
