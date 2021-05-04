@@ -19,6 +19,27 @@ let monkeys = [
         description: "Bom macaco para voce colocar no inicio do jogo em dificuldades e mapas dificeis."
     },
     {
+        name: "Macaco Bumerangue",
+        path: "024",
+        mapDificulty: [Normal],
+        dificulty: [Medium, Hard],
+        description: "????????."     
+    },
+    {
+        name: "Usina de Espinhos",
+        path: "025",
+        mapDificulty: [Normal,Intermediary,Advanced, Extreme],
+        dificulty: [Hard],
+        description: "Otimo contra bloons de ceramicas e DDTS."     
+    },
+    {
+        name: "Macaco Ninja",
+        path: "402",
+        mapDificulty: [Normal, Intermediary],
+        dificulty: [Medium, Hard],
+        description: "????????."     
+    },
+    {
         name: "Bombardeiro",
         path: "040",
         mapDificulty: [Advanced, Extreme],
@@ -54,18 +75,20 @@ let monkeys = [
         description: "Super Macaco bom contra bloons de ceramica e MOABs"     
     },
     {
+        name: "Mago",
+        path: "302",
+        mapDificulty: [Normal, Intermediary, Advanced, Extreme],
+        dificulty: [Easy, Medium, Hard],
+        description: "????????."     
+    },
+    {
         name: "Druida",
         path: "401",
         mapDificulty: [Advanced, Extreme],
         dificulty: [Hard],
         description: "Druida bom contra bloons de ceramica."     
-    },{
-        name: "Usina de Espinhos",
-        path: "025",
-        mapDificulty: [Normal,Intermediary,Advanced, Extreme],
-        dificulty: [Hard],
-        description: "Otimo contra bloons de ceramicas e DDTS."     
     }
+
 ]
 
 let pathToStr = (path) => 
