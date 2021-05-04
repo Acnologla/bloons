@@ -77,7 +77,7 @@ let monkeys = [
     {
         name: "Mago",
         path: "302",
-        mapDificulty: [Normal, Intermediary, Advanced, Extreme],
+        mapDificulty: [Intermediary, Advanced],
         dificulty: [Easy, Medium, Hard],
         description: "Lança raios mágicos que estoura 2 bloons, bom para todos os mapas."     
     },
