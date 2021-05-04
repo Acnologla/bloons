@@ -69,19 +69,19 @@ let monkeys = [
         name: "Submarino DPS",
         path: "205",
         mapDificulty: [Normal,Intermediary,Advanced, Extreme],
-        dificulty: [Hard],
+        dificulty: [Easy, Medium, Hard],
         description: "Derruba MOABs e atira bastante"     
     },{
         name: "Bucaneiro DPS",
         path: "502",
-        mapDificulty: [Normal,Intermediary,Advanced, Extreme],
+        mapDificulty: [Normal,Intermediary, Advanced, Extreme],
         dificulty: [Hard],
         description: "Atira muito rapido e ainda solta avioes"     
     },{
         name: "Bucaneiro Dano",
         path: "052",
-        mapDificulty: [Normal,Intermediary,Advanced, Extreme],
-        dificulty: [Hard],
+        mapDificulty: [Normal, Intermediary],
+        dificulty: [Medium, Hard],
         description: "Causa muito dano e puxa até 3 MOABs"     
     }
 ]
